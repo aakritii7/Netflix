@@ -28,6 +28,12 @@ const Home = () => {
           <TitleCard />
         </div>
       </div>
+      <div className="more-cards">
+        <TitleCard />
+        <TitleCard />
+        <TitleCard />
+        <TitleCard />
+      </div>
     </div>
   )
 }
