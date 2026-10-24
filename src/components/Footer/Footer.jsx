@@ -16,7 +16,7 @@ const Footer = () => {
       <ul>
         <li>Audio Description</li>
         <li>Help Centre</li>
-        <li>GIft Cards</li>
+        <li>Gift Cards</li>
         <li>Media Centre</li>
         <li>Investor Relations</li>
         <li>Jobs</li>
