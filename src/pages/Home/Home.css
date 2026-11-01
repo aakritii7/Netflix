@@ -57,3 +57,22 @@
 .more-cards{
     padding-left: 6%;
 }
+
+@media (max-width: 1024px) {
+    .hero-caption .caption-img{
+        display: none;
+    }
+    .hero-btns{
+        margin-bottom: 30px;
+    }
+    
+}
+@media (max-width: 1024px) {
+    .hero-caption .caption-img{
+        display: none;
+    }
+    .hero-btns{
+        margin-bottom: 30px;
+    }
+    
+}
